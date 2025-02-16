@@ -7,7 +7,7 @@ This project demonstrates the implementation of **Cloud Computing** and **DevOps
 ## **🚀 Features**  
 - ✅ **Infrastructure as Code (IaC)** – Terraform / AWS CloudFormation  
 - ✅ **CI/CD Pipeline** – GitHub Actions / Jenkins  
-- ✅ **Containerization** – Docker, Kubernetes  
+- ✅ **Containerization** – Dockers, Kubernetes  
 - ✅ **Cloud Deployment** – AWS / GCP / Azure  
 - ✅ **Monitoring & Logging** – Prometheus, Grafana, ELK Stack  
 - ✅ **Security & Compliance** – IAM, Role-Based Access Control  
